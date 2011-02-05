@@ -1,0 +1,4 @@
+This code represents an experiment in trying to do full text indexing
+with SimpleDB.  Included is the code itself and a Number spreadsheet
+(and PDF file) that describes the approach and results.  It is by no
+means a complete indexer and is quite old so may not be that useful.
